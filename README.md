@@ -48,7 +48,7 @@ make menuconfig
 for U2C
 
 Canbus on PA11/PA12 (USB C Port)
-EBB PB01/02 or PB8/PB9
+EBB V1.1/1.2 PB01/02 or EBB V1.0 PB8/PB9
 
 ![Octopus USB](https://user-images.githubusercontent.com/66954448/185452484-6c577663-7c2e-4472-923f-88ff9b32c189.PNG)
 

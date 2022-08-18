@@ -116,3 +116,6 @@ check the network with
   there will ne two uuids 
   
   
+https://github.com/maz0r/klipper_canbus/blob/main/controller/monster8v2.md
+  
+https://github.com/chripink/CanBus-Tuto/blob/main/README_EN.md?fbclid=IwAR3fygwjksNebupJxqWBRoczSc3Wp18VQADGoxYVNEudE55fR3Swkzml3Lo

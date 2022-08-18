@@ -73,15 +73,25 @@ CanO Network
 sudo nano /etc/network/interfaces.d/can0
   
 allow-hotplug can0
+  
 iface can0 can static
+  
  bitrate 250000
+  
  up ifconfig $IFACE txqueuelen 256
+  
  pre-up ip link set can0 type can bitrate 250000
+  
  pre-up ip link set can0 txqueuelen 256 
   
+  
+    
 ctrl+x to save
   
 sudo reboot
+  
+  
+  
   
 wire it up
 

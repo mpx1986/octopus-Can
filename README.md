@@ -24,7 +24,7 @@ U2C and RJ11
 
 ![CanBoot U2c](https://user-images.githubusercontent.com/66954448/185453142-44af78a4-3e55-4373-a3b3-531bfbb6ae7e.PNG)
 
-DFU Mode conncting to pi via USB
+DFU Mode connecting USB to Pi
 
 lsusb (this number 0483:df11 can variat)
 
